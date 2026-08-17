@@ -1,0 +1,1068 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 1000,
+    "total": 66,
+    "sourceid": "2",
+    "lastupdated": "2026-04-08"
+  },
+  [
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2024",
+      "value": 12.8762268451495,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2023",
+      "value": 13.2994712368456,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2022",
+      "value": 12.8847307909688,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2021",
+      "value": 13.0100405607162,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2020",
+      "value": 12.9418127421121,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2019",
+      "value": 12.6784857740305,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2018",
+      "value": 13.3663080349279,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2017",
+      "value": 13.9316523803397,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2016",
+      "value": 14.5926588381272,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2015",
+      "value": 14.2997317197965,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2014",
+      "value": 13.1351000392395,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2013",
+      "value": 12.2611805401854,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2012",
+      "value": 12.5996773832049,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2011",
+      "value": 12.8501503190767,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2010",
+      "value": 13.4157104992039,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2009",
+      "value": 14.3067678633646,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2008",
+      "value": 13.6931926001675,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2007",
+      "value": 14.1174583702993,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2006",
+      "value": 14.0483715285816,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2005",
+      "value": 14.7037965260626,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2004",
+      "value": 15.9186999201902,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2003",
+      "value": 17.3160600116104,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2002",
+      "value": 18.8763207423972,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2001",
+      "value": 20.4272571669847,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2000",
+      "value": 23.9393098444242,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1999",
+      "value": 21.2679363090736,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1998",
+      "value": 19.9260144824571,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1997",
+      "value": 20.4203734464423,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1996",
+      "value": 21.9243247145014,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1995",
+      "value": 22.1645697816292,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1994",
+      "value": 22.8424555340655,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1993",
+      "value": 22.3930078997327,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1992",
+      "value": 25.8124008753903,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1991",
+      "value": 23.638882850754,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1990",
+      "value": 22.3309350666522,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1989",
+      "value": 21.3786996269853,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1988",
+      "value": 21.4979882152108,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1987",
+      "value": 21.2206233458431,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1986",
+      "value": 20.5233450773489,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1985",
+      "value": 21.6161789649699,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1984",
+      "value": 22.1415148048959,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1983",
+      "value": 19.2800902879395,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1982",
+      "value": 19.7224640191162,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1981",
+      "value": 18.4934371581471,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1980",
+      "value": 18.3395202457704,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1979",
+      "value": 20.526325856374,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1978",
+      "value": 19.6868081975452,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1977",
+      "value": 20.7247106245034,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1976",
+      "value": 19.3186712481648,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1975",
+      "value": 18.8421385121657,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1974",
+      "value": 18.8664931498874,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1973",
+      "value": 18.654434958315,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1972",
+      "value": 21.7516941647878,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1971",
+      "value": 23.0935013985252,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1970",
+      "value": 23.1910656341616,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1969",
+      "value": 21.7258312102679,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1968",
+      "value": 21.2086822529595,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1967",
+      "value": 21.6431617334777,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1966",
+      "value": 21.9174307959368,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1965",
+      "value": 20.4028745498562,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1964",
+      "value": 21.5030531909247,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1963",
+      "value": 19.9142066504291,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1962",
+      "value": 19.4709509944129,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1961",
+      "value": 19.3033156104448,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.MANF.ZS",
+        "value": "Manufacturing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "1960",
+      "value": 19.7122411749269,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]

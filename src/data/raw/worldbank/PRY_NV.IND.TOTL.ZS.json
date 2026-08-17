@@ -1,0 +1,1068 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 1000,
+    "total": 66,
+    "sourceid": "2",
+    "lastupdated": "2026-04-08"
+  },
+  [
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2024",
+      "value": 32.4816951610773,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2023",
+      "value": 32.8917641916625,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2022",
+      "value": 34.2539657600776,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2021",
+      "value": 34.6796897271552,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2020",
+      "value": 34.2042992219391,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2019",
+      "value": 33.4893114330734,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2018",
+      "value": 33.556175213621,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2017",
+      "value": 34.3937589134318,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2016",
+      "value": 34.4967803217785,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2015",
+      "value": 34.582253753407,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2014",
+      "value": 33.6080758464952,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2013",
+      "value": 33.232924993924,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2012",
+      "value": 34.5140981436728,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2011",
+      "value": 34.0345623930043,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2010",
+      "value": 34.6039155110683,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2009",
+      "value": 37.38083932116,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2008",
+      "value": 36.7688484491586,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2007",
+      "value": 37.1011236408528,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2006",
+      "value": 38.3057903240628,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2005",
+      "value": 39.2893886541103,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2004",
+      "value": 38.4052880586144,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2003",
+      "value": 40.2733826715247,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2002",
+      "value": 42.1710275465435,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2001",
+      "value": 38.5619118460378,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "2000",
+      "value": 35.5635329986887,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1999",
+      "value": 35.128827047079,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1998",
+      "value": 32.9920082544748,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1997",
+      "value": 31.1785640245962,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1996",
+      "value": 31.4493057482251,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1995",
+      "value": 31.7262289896802,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1994",
+      "value": 32.2311815367462,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1993",
+      "value": 33.2043974695818,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1992",
+      "value": 35.5108237096318,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1991",
+      "value": 36.696075545648,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1990",
+      "value": 32.8414141490135,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1989",
+      "value": 30.2904749351577,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1988",
+      "value": 29.5392979588256,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1987",
+      "value": 27.8030660576982,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1986",
+      "value": 27.3930554178787,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1985",
+      "value": 26.1629643510823,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1984",
+      "value": 25.9370694336855,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1983",
+      "value": 26.3622125389512,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1982",
+      "value": 25.5408118962336,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1981",
+      "value": 25.201322441861,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1980",
+      "value": 24.4804704715242,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1979",
+      "value": 22.8591869253962,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1978",
+      "value": 23.5702637175934,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1977",
+      "value": 22.9052546925026,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1976",
+      "value": 21.7299095151563,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1975",
+      "value": 20.5495828060429,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1974",
+      "value": 22.1832909767352,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1973",
+      "value": 19.8176295670337,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1972",
+      "value": 19.6802856582627,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1971",
+      "value": 19.9750286615076,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1970",
+      "value": 19.8733198969581,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1969",
+      "value": 19.1205969212332,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1968",
+      "value": 18.78418986876,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1967",
+      "value": 19.4538234772943,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1966",
+      "value": 18.7051378147252,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1965",
+      "value": 18.1295534244615,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1964",
+      "value": 18.4071950555858,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1963",
+      "value": 17.9951004713471,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1962",
+      "value": 18.0561080795635,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1961",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "PY",
+        "value": "Paraguay"
+      },
+      "countryiso3code": "PRY",
+      "date": "1960",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    }
+  ]
+]

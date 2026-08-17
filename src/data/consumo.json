@@ -1,0 +1,91 @@
+{
+  "updatedAt": "2026-06-08",
+  "summary": [
+    {
+      "id": "ventas_minoristas",
+      "label": "Ventas minoristas",
+      "value": -5.0735,
+      "unit": "%",
+      "foot": "Var. interanual constantes — 2026-03"
+    },
+    {
+      "id": "consumo_masivo",
+      "label": "Consumo masivo",
+      "value": -4.8,
+      "unit": "%",
+      "foot": "Canasta básica y supermercados"
+    },
+    {
+      "id": "salario_real",
+      "label": "Salario real",
+      "value": 1.3,
+      "unit": "%",
+      "foot": "Variación real interanual"
+    },
+    {
+      "id": "credito_consumo",
+      "label": "Crédito al consumo",
+      "value": 18.5,
+      "unit": "%",
+      "foot": "Crecimiento real de préstamos"
+    },
+    {
+      "id": "var_acumulada",
+      "label": "Var Acumulada",
+      "value": -3.1353,
+      "unit": "%",
+      "foot": "Acumulada 2026 — constantes"
+    },
+    {
+      "id": "var_intermensual",
+      "label": "Var Intermensual",
+      "value": -0.0222,
+      "unit": "%",
+      "foot": "Var. intermensual desest. — 2026-03"
+    },
+    {
+      "id": "ticket_promedio",
+      "label": "Ticket Promedio",
+      "value": 35817,
+      "unit": "",
+      "foot": "Ticket promedio pesos corrientes — 2026-03"
+    }
+  ],
+  "retailNotes": [
+    "Supermercados: monitorear ticket promedio real.",
+    "Autoservicios: mayor sensibilidad a ingresos corrientes.",
+    "Centros comerciales: recuperación gradual por rubro."
+  ],
+  "incomeNotes": [
+    "Salario real en mejora leve, con heterogeneidad sectorial.",
+    "Crédito personal y tarjetas en expansión real.",
+    "La dinámica de empleo formal condiciona la tracción del consumo."
+  ],
+  "fuenteSuperMercados": "INDEC — Encuesta de Supermercados (Cuadro 1)",
+  "ultimoDato": {
+    "fecha": "2026-03",
+    "indice_orig_base2017": 82.3923,
+    "var_yoy": -5.0735
+  },
+  "fuente": "INDEC — Encuesta de Supermercados",
+  "periodo": "2026-03",
+  "mediosDePago": {
+    "fecha": "2026-03",
+    "efectivo_mill": 408840.3,
+    "debito_mill": 610033.3,
+    "credito_mill": 1107213.7,
+    "otros_mill": 337912.6
+  },
+  "canalDeVenta": {
+    "fecha": "2026-03",
+    "salon_ventas_mill": 2387076.5,
+    "online_mill": 76923.6
+  },
+  "bocas": {
+    "fecha": "2026-03",
+    "bocas": 3144,
+    "ventas_m2": 728670.5337,
+    "personal": 68794617,
+    "ticket_promedio": 35816.7563
+  }
+}

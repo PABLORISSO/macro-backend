@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "titulo": "Inflación",
+    "subtitulo": "Inflación mensual (%)",
+    "labels": ["Ene", "Feb", "Mar", "Abr", "May"],
+    "data": [20.6, 13.2, 11.0, 8.8, 7.5]
+  },
+  {
+    "id": 2,
+    "titulo": "Tipo de cambio",
+    "subtitulo": "Tipo de cambio oficial",
+    "labels": ["Ene", "Feb", "Mar", "Abr", "May"],
+    "data": [800, 820, 850, 900, 950]
+  },
+  {
+    "id": 3,
+    "titulo": "Actividad",
+    "subtitulo": "Índice de actividad económica",
+    "labels": ["Ene", "Feb", "Mar", "Abr", "May"],
+    "data": [100, 98, 97, 99, 101]
+  },
+  {
+    "id": 4,
+    "titulo": "Reservas",
+    "subtitulo": "Reservas internacionales",
+    "labels": ["Ene", "Feb", "Mar", "Abr", "May"],
+    "data": [25000, 24000, 23000, 23500, 24500]
+  }
+]

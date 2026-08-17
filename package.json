@@ -1,0 +1,35 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.cjs",
+    "update:emae": "python scripts/indec/update_emae.py",
+    "update:emae:sectores": "python scripts/indec/update_emae_sectores.py",
+    "update:actividad": "npm run update:emae && npm run update:emae:sectores",
+    "update:itcrm:py": "python scripts/bcra/itcrm/update_itcrm.py",
+    "update:monetaria:py": "python scripts/bcra/monetaria/update_monetaria.py",
+    "update:tipocambio:py": "python scripts/bcra/tipo_cambio/update_tipo_cambio.py",
+    "update:ipim": "python scripts/indec/update_ipim.py",
+    "check:itcrm:py": "python scripts/itcrm/check_itcrm_fecha.py",
+    "update:monetaria": "node scripts/bcra/monetaria/update_monetaria.js",
+    "update:tipocambio": "node scripts/bcra/tipo_cambio/update_tipo_cambio.js",
+    "update:all:py": "npm run update:actividad && npm run update:itcrm:py && npm run update:monetaria:py && npm run update:tipocambio:py && npm run update:ipim",
+    "update:all": "npm run update:actividad && npm run update:monetaria && npm run update:tipocambio",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^17.4.2",
+    "exceljs": "^4.4.0",
+    "express": "^5.2.1",
+    "macro": "file:..",
+    "openai": "^6.34.0",
+    "xlsx": "^0.18.5"
+  }
+}

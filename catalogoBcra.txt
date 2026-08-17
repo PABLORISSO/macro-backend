@@ -1,0 +1,1 @@
+https://api.bcra.gob.ar/estadisticas/v4.0/metodologia

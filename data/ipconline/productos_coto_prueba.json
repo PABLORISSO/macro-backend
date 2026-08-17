@@ -1,0 +1,262 @@
+[
+  {
+    "id": "prod00060947",
+    "sku_id": "sku00060947",
+    "nombre": "Papa Negra Selección X Kg",
+    "descripcion": "Papa Negra Selección X Kg",
+    "ean": 2060947000004,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 999,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00060900/00060947.jpg"
+  },
+  {
+    "id": "prod00000446",
+    "sku_id": "sku00000446",
+    "nombre": "Banana Cavendish X Kg",
+    "descripcion": "Banana Cavendish X Kg",
+    "ean": 2000446000006,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 1899,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00000400/00000446.jpg"
+  },
+  {
+    "id": "prod00000602",
+    "sku_id": "sku00000602",
+    "nombre": "Cebolla A Granel X Kg",
+    "descripcion": "Cebolla A Granel X Kg",
+    "ean": 2000602000000,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 999,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00000600/00000602.jpg"
+  },
+  {
+    "id": "prod00000686",
+    "sku_id": "sku00000686",
+    "nombre": "Zanahoria Seleccion Xkg",
+    "descripcion": "Zanahoria Seleccion Xkg",
+    "ean": 2000686000002,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 1499,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00000600/00000686.jpg"
+  },
+  {
+    "id": "prod00000688",
+    "sku_id": "sku00000688",
+    "nombre": "Zapallo Anco X Kg",
+    "descripcion": "Zapallo Anco X Kg",
+    "ean": 2000688000000,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 899,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00000600/00000688.jpg"
+  },
+  {
+    "id": "prod00000204",
+    "sku_id": "sku00000204",
+    "nombre": "Mandarina Nova X Kg",
+    "descripcion": "Mandarina Nova X Kg",
+    "ean": 2000204000002,
+    "unidad": "KGS",
+    "precio_lista": 799,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00000200/00000204.jpg"
+  },
+  {
+    "id": "prod00061005",
+    "sku_id": "sku00061005",
+    "nombre": "Naranja Jugo Xkg",
+    "descripcion": "Naranja Jugo Xkg",
+    "ean": 2061005000004,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 999,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00061000/00061005.jpg"
+  },
+  {
+    "id": "prod00000684",
+    "sku_id": "sku00000684",
+    "nombre": "Tomate Red X Kg",
+    "descripcion": "Tomate Red X Kg",
+    "ean": 2000684000004,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 3699,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00000600/00000684.jpg"
+  },
+  {
+    "id": "prod00000695",
+    "sku_id": "sku00000695",
+    "nombre": "Papa Blanca . Xkg",
+    "descripcion": "Papa Blanca . Xkg",
+    "ean": 2000695000000,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 1899,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00000600/00000695.jpg"
+  },
+  {
+    "id": "prod00069607",
+    "sku_id": "sku00069607",
+    "nombre": "Picada Especial X KG",
+    "descripcion": "Picada Especial X KG",
+    "ean": 2069607000002,
+    "unidad": "KGS",
+    "precio_lista": 10499,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00069600/00069607.jpg"
+  },
+  {
+    "id": "prod00061007",
+    "sku_id": "sku00061007",
+    "nombre": "Limón x Kg",
+    "descripcion": "Limón x Kg",
+    "ean": 2061007000002,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 999,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00061000/00061007.jpg"
+  },
+  {
+    "id": "prod00000541",
+    "sku_id": "sku00000541",
+    "nombre": "Palta Hass Xkg",
+    "descripcion": "Palta Hass Xkg",
+    "ean": 2000541000000,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 4999,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00000500/00000541.jpg"
+  },
+  {
+    "id": "prod00000691",
+    "sku_id": "sku00000691",
+    "nombre": "Zapallito Redondo Xkg",
+    "descripcion": "Zapallito Redondo Xkg",
+    "ean": 2000691000004,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 2499,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00000600/00000691.jpg"
+  },
+  {
+    "id": "prod00000671",
+    "sku_id": "sku00000671",
+    "nombre": "Pimiento Rojo Xkg",
+    "descripcion": "Pimiento Rojo Xkg",
+    "ean": 2000671000000,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 4499,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00000600/00000671.jpg"
+  },
+  {
+    "id": "prod00061002",
+    "sku_id": "sku00061002",
+    "nombre": "Manzana Comercial X Kg",
+    "descripcion": "Manzana Comercial X Kg",
+    "ean": 2061002000007,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 2999,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00061000/00061002.jpg"
+  },
+  {
+    "id": "prod00000614",
+    "sku_id": "sku00000614",
+    "nombre": "Choclo Amarillo Xkg",
+    "descripcion": "Choclo Amarillo Xkg",
+    "ean": 2000614000005,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 2999,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00000600/00000614.jpg"
+  },
+  {
+    "id": "prod00041463",
+    "sku_id": "sku00041463",
+    "nombre": "Osobuco De Garron X KG",
+    "descripcion": "Osobuco De Garron X KG",
+    "ean": 2004146300008,
+    "unidad": "KGS",
+    "precio_lista": 9899,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00041400/00041463.jpg"
+  },
+  {
+    "id": "prod00072041",
+    "sku_id": "sku00072041",
+    "nombre": "Batata X Kg",
+    "descripcion": "Batata X Kg",
+    "ean": 2072041000002,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 1799,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00072000/00072041.jpg"
+  },
+  {
+    "id": "prod00000683",
+    "sku_id": "sku00000683",
+    "nombre": "Tomate Perit . Xkg",
+    "descripcion": "Tomate Perit . Xkg",
+    "ean": 2000683000005,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 3999,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00000600/00000683.jpg"
+  },
+  {
+    "id": "prod00046634",
+    "sku_id": "sku00046634",
+    "nombre": "Cebolla De Verdeo X Uni",
+    "descripcion": "Cebolla De Verdeo X Uni",
+    "ean": 2004663400007,
+    "formato": "Unidad",
+    "unidad": "UNI",
+    "precio_lista": 1899,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00046600/00046634.jpg"
+  },
+  {
+    "id": "prod00017625",
+    "sku_id": "sku00017625",
+    "nombre": "Zapallo Japones Xkg",
+    "descripcion": "Zapallo Japones Xkg",
+    "ean": 2017625000009,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 999,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00017600/00017625.jpg"
+  },
+  {
+    "id": "prod00017834",
+    "sku_id": "sku00017834",
+    "nombre": "Filete De Merluza Despinado Fresco X Kg",
+    "descripcion": "Filete De Merluza Despinado Fresco X Kg",
+    "ean": 2017834000005,
+    "unidad": "KGS",
+    "precio_lista": 9990,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00017800/00017834.jpg"
+  },
+  {
+    "id": "prod00000593",
+    "sku_id": "sku00000593",
+    "nombre": "Berenjena x kg",
+    "descripcion": "Berenjena x kg",
+    "ean": 2000593000003,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 2999,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00000500/00000593.jpg"
+  },
+  {
+    "id": "prod00000567",
+    "sku_id": "sku00000567",
+    "nombre": "Tomate Cherry X Kg",
+    "descripcion": "Tomate Cherry X Kg",
+    "ean": 2000567000008,
+    "formato": "Kilogramo",
+    "unidad": "KGS",
+    "precio_lista": 4999,
+    "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/large/00000500/00000567.jpg"
+  }
+]
