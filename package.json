@@ -23,6 +23,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^6.19.3",
     "cors": "^2.8.6",
     "csv-parser": "^3.2.0",
     "dotenv": "^17.4.2",
@@ -30,6 +31,7 @@
     "express": "^5.2.1",
     "macro": "file:..",
     "openai": "^6.34.0",
+    "prisma": "^6.19.3",
     "xlsx": "^0.18.5"
   }
 }

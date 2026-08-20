@@ -7,6 +7,8 @@ const {
   getLegacyDollarQuotes,
 } = require("../services/exchangeRateService");
 
+const { getHistoricalSeriesFromDb } = require("../services/dbExchangeRateService");
+
 function handleExchangeRateError(error, res, fallbackMessage) {
   const statusCode = error?.statusCode || 500;
   if (statusCode >= 500) {
@@ -48,6 +50,23 @@ async function getHistoricoSerie(req, res) {
     const { nombre } = req.params;
     const { desde, hasta, frecuencia, limit } = req.query;
 
+    // Intentar consulta a la Base de Datos PostgreSQL (Supabase) primero
+    const dbData = await getHistoricalSeriesFromDb(nombre, {
+      desde,
+      hasta,
+      limit: limit ? Number(limit) : undefined,
+    }).catch(() => null);
+
+    if (dbData && dbData.length > 0) {
+      return res.json({
+        fuente: "PostgreSQL (Supabase)",
+        serie: nombre,
+        total: dbData.length,
+        datos: dbData,
+      });
+    }
+
+    // Fallback a archivos CSV
     const payload = getHistoricalExchangeRateSeries(nombre, {
       desde,
       hasta,
@@ -60,6 +79,7 @@ async function getHistoricoSerie(req, res) {
     handleExchangeRateError(error, res, "Error al obtener serie histórica");
   }
 }
+
 
 async function getTablaTipoCambio(req, res) {
   try {
