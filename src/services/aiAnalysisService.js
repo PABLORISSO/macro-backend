@@ -1,9 +1,22 @@
 const { OpenAI } = require("openai");
 
-const client = new OpenAI({
-  baseURL: "http://localhost:1234/v1",
-  apiKey: "lm-studio",
-});
+const clientOptions = {};
+if (process.env.OPENAI_BASE_URL) {
+  clientOptions.baseURL = process.env.OPENAI_BASE_URL;
+} else if (!process.env.OPENAI_API_KEY) {
+  clientOptions.baseURL = "http://localhost:1234/v1";
+}
+if (process.env.OPENAI_API_KEY) {
+  clientOptions.apiKey = process.env.OPENAI_API_KEY;
+} else {
+  clientOptions.apiKey = "lm-studio";
+}
+
+const client = new OpenAI(clientOptions);
+
+function getAIModel() {
+  return process.env.OPENAI_MODEL || (process.env.OPENAI_API_KEY ? "gpt-4o-mini" : "phi-3.1-mini-128k-instruct");
+}
 
 async function analizarDolarMepMayorista({ mepActual, mayoristActual, mepHistorico = [], mayoristHistorico = [] }) {
   try {
@@ -32,7 +45,7 @@ Proporciona un análisis corto (3-5 oraciones) sobre:
 Sé conciso, evita jerga excesiva.`;
 
     const response = await client.chat.completions.create({
-      model: "phi-3.1-mini-128k-instruct",
+      model: getAIModel(),
       messages: [
         {
           role: "system",
@@ -94,7 +107,7 @@ Proporciona un análisis corto (3-5 oraciones) sobre:
 Sé conciso y claro.`;
 
     const response = await client.chat.completions.create({
-      model: "phi-3.1-mini-128k-instruct",
+      model: getAIModel(),
       messages: [
         {
           role: "system",
@@ -154,7 +167,7 @@ Reglas:
 - Cerrá con una frase coherente con la señal calculada.`;
 
     const response = await client.chat.completions.create({
-      model: "phi-3.1-mini-128k-instruct",
+      model: getAIModel(),
       messages: [
         {
           role: "system",
@@ -219,7 +232,7 @@ Reglas:
 - Indicá si hay pérdida de impulso, recuperación o estabilidad.`;
 
     const response = await client.chat.completions.create({
-      model: "phi-3.1-mini-128k-instruct",
+      model: getAIModel(),
       messages: [
         {
           role: "system",
@@ -282,7 +295,7 @@ async function chatInflacion({ pregunta, contexto = {}, historial = [] }) {
     messages.push({ role: "user", content: pregunta });
 
     const response = await client.chat.completions.create({
-      model: "phi-3.1-mini-128k-instruct",
+      model: getAIModel(),
       messages,
       temperature: 0.5,
       max_tokens: 300,
